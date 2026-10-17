@@ -1,4 +1,4 @@
-# Check-passworod
+# Check-password
 ## About the Project
 This is a beginner-friendly Python program that checks the strength of a password based on selected criteria.
 ## Features
